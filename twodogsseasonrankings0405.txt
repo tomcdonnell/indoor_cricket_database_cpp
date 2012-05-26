@@ -1,0 +1,117 @@
+Team Records - Two Dogs
+Period [31/08/2004, 06/02/2005]
+--------------------------------------------------------------
+Matches:                                                    23
+Wins:                                                       10
+Losses:                                                     13
+Draws:                                                       0
+
+Average Score:                                         78.8696
+Average Opposition Score:                              85.8261
+Average Margin:                                       -6.95652
+Average Team Wicket Tally:                             12.7391
+
+Best / Worst Team Performances
+ Best Score:                                               147
+  (Vs Here For A Good Time, 08/12/2004)
+ Worst Score:                                               26
+  (Vs Hot 2 Frot, 08/09/2004)
+
+ Best Opposition Score:                                    153
+  (Vs Benda Rover, 31/08/2004)
+ Worst Opposition Score:                                     9
+  (Vs Purple Cobras, 26/01/2005)
+
+ Best Margin:                                              129
+  (Vs Here For A Good Time, 08/12/2004)
+ Worst Margin:                                            -117
+  (Vs Benda Rover, 31/08/2004)
+
+ Best Team Wicket Tally:                                    24
+  (Vs Purple Cobras, 26/01/2005)
+ Worst Team Wicket Tally:                                    3
+  (Vs J. A. F. I. C. S., 06/10/2004)
+
+Best / Worst Individual Performances
+ Best Innings:                                              28
+  Mark <last_name>  (Vs Benda Rover, 31/08/2004)
+ Worst Innings:                                            -18
+  Eddie <last_name>  (Vs Benda Rover, 31/08/2004)
+
+ Best Over:                                              3/-14
+  Max Morrison  (Vs Dream Team, 19/01/2005)
+ Worst Over:                                             0/ 23
+  Max Morrison  (Vs Team Tena, 29/11/2004)
+
+ Best Match Bowling Figures: (*)                         5/-17
+  Tom McDonnell  (Vs Pyros, 12/01/2005)
+ Worst Match Bowling Figures: (*)                        1/ 34
+  Max Morrison  (Vs Agguts, 22/09/2004)
+
+ Best Match Contribution: (*)                               38
+  Mark <last_name>  (Vs Here For A Good Time, 08/12/2004)
+ Worst Match Contribution: (*)                             -40
+  Eddie <last_name>  (Vs Benda Rover, 31/08/2004)
+--------------------------------------------------------------
+
+Player Rankings (Avg. Runs Scored Per Innings)
+Team   Two Dogs
+Period [31/08/2004, 06/02/2005]
+(Minimum 2 Matches)
+---------------------------------------------------
+First Name       Last Name        Matches   Average
+---------------------------------------------------
+Mark             <last_name>           11   16.5455
+Brendon          <last_name>           21   14.4286
+Al               <last_name>           19   12.5263
+Max              Morrison              21   10.9524
+Eric             Morrison              23   10.7037
+Adam             Cunningham            13   7.41667
+Tom              McDonnell             22   7.13636
+Gary             <last_name>           10   6.90909
+Glen             <last_name>           16   6.23529
+Eddie            <last_name>           15       4.5
+---------------------------------------------------
+
+
+
+Player Rankings (Avg. Runs Conceded Per Over)
+Team   Two Dogs
+Period [31/08/2004, 06/02/2005]
+(Minimum 2 Matches)
+---------------------------------------------------
+First Name       Last Name        Matches   Average
+---------------------------------------------------
+Mark             <last_name>           11   1.95455
+Gary             <last_name>           10   2.90476
+Glen             <last_name>           16   4.75758
+Brendon          <last_name>           21   4.90476
+Adam             Cunningham            13      5.04
+Tom              McDonnell             22   5.14583
+Al               <last_name>           19   5.58974
+Eddie            <last_name>           15   5.96667
+Max              Morrison              21   7.08889
+Eric             Morrison              23   7.24528
+---------------------------------------------------
+
+
+
+Player Rankings (Avg. Match Contribution)
+Team   Two Dogs
+Period [31/08/2004, 06/02/2005]
+(Minimum 2 Matches)
+---------------------------------------------------
+First Name       Last Name        Matches   Average
+---------------------------------------------------
+Mark             <last_name>           11   12.6364
+Brendon          <last_name>           21   4.61905
+Al               <last_name>           19   1.34683
+Gary             <last_name>           10   1.09957
+Adam             Cunningham            13  -2.66333
+Tom              McDonnell             22   -3.1553
+Max              Morrison              21   -3.2254
+Glen             <last_name>           16  -3.27986
+Eric             Morrison              23  -3.78686
+Eddie            <last_name>           15  -7.43333
+---------------------------------------------------
+

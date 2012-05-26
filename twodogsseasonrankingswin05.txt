@@ -1,0 +1,161 @@
+
+Team Records - Two Dogs
+Period [16/06/2005, 19/10/2005]
+-----------------------------------------------------------------------------
+
+ Results Summary Table
+ ---------------------------------------------------------------------------
+                      ::::::Totals::::::         ::::::::::Averages:::::::::
+                                                  Team   Opp.         Wicket
+ Subset of Matches      P    W    L    D  Win %  Score  Score  Margin  Tally
+ ---------------------------------------------------------------------------
+ All Matches Played    13    0   13    0   0.00  56.23 116.77  -60.54   9.31
+ Batted 1st             8    0    8    0   0.00  53.13 119.75  -66.63   8.50
+ Batted 2nd             5    0    5    0   0.00  61.20 112.00  -50.80  10.60
+ Had Full Team          4    0    4    0   0.00  68.75 110.25  -41.50   9.50
+ Missing 1 Player       9    0    9    0   0.00  50.67 119.67  -69.00   9.22
+ Missing 2 Players      0    0    0    0   0.00   0.00   0.00    0.00   0.00
+ ---------------------------------------------------------------------------
+
+Streaks
+ Longest Winning:                                                   0 matches
+  [01/01/1980, 01/01/1980]
+ Longest Losing:                                                   13 matches
+  [06/07/2005, 19/10/2005]
+
+Best / Worst Team Performances
+ Best Score:                                                              108
+  (Vs H. S. D., 12/10/2005)
+ Worst Score:                                                              12
+  (Vs Thorpies Furballs, 20/07/2005)
+
+ Best Opposition Score:                                                   158
+  (Vs Thorpies Furballs, 27/07/2005)
+ Worst Opposition Score:                                                   73
+  (Vs Team Tena, 10/08/2005)
+
+ Best Margin:                                                              -3
+  (Vs Kev's Team, 01/09/2005)
+ Worst Margin:                                                           -115
+  (Vs The Woodies, 05/10/2005)
+
+ Best Team Wicket Tally:                                                   14
+  (Vs Thorpies Furballs, 20/07/2005)
+ Worst Team Wicket Tally:                                                   6
+  (Vs The Woodies, 19/10/2005)
+  (Vs Team Tena, 13/07/2005)
+-----------------------------------------------------------------------------
+
+Team History - Two Dogs
+Period [16/06/2005, 19/10/2005]
+--------------------------------------------------------------------------
+Date        Opposition                        Team   Opp.   Margin  Result
+                                              Score  Score
+--------------------------------------------------------------------------
+06/07/2005  J. A. F. I. C. S.                    63    104     -41       L
+13/07/2005  Team Tena                            29    128     -99       L
+20/07/2005  Thorpies Furballs                    12     98     -86       L
+27/07/2005  Thorpies Furballs                   100    158     -58       L
+10/08/2005  Team Tena                            46     73     -27       L
+18/08/2005  The Shinboners                       44     93     -49       L
+01/09/2005  Kev's Team                           83     86      -3       L
+06/09/2005  K 2                                  45    157    -112       L
+14/09/2005  J. A. F. I. C. S.                    36    114     -78       L
+28/09/2005  The Shinboners                       57    115     -58       L
+05/10/2005  The Woodies                          23    138    -115       L
+12/10/2005  H. S. D.                            108    116      -8       L
+19/10/2005  The Woodies                          85    138     -53       L
+--------------------------------------------------------------------------
+
+Team Individual Records - Two Dogs
+Period [16/06/2005, 19/10/2005]
+--------------------------------------------------------------
+ Best Innings:                                              31
+  Gary Virgin  (Vs H. S. D., 12/10/2005)
+ Worst Innings:                                            -25
+  Brendon Hooker  (Vs Team Tena, 13/07/2005)
+
+ Best Over:                                              4/-20
+  Tom McDonnell  (Vs H. S. D., 12/10/2005)
+ Worst Over:                                             0/ 24
+  Nick Catlow  (Vs K 2, 06/09/2005)
+
+ Best Match Bowling Figures: (*)                         4/-11
+  Tom McDonnell  (Vs H. S. D., 12/10/2005)
+ Worst Match Bowling Figures: (*)                        0/ 43
+  Eric Morrison  (Vs H. S. D., 12/10/2005)
+
+ Best Match Contribution: (*)                               25
+  Gary Virgin  (Vs H. S. D., 12/10/2005)
+ Worst Match Contribution: (*)                        -40.3333
+  Tom McDonnell  (Vs The Woodies, 05/10/2005)
+
+ Best Batting Partnership:                                  42
+  25  Damien <last_name>  (Vs Thorpies Furballs, 27/07/2005)
+  17  Brendon Hooker  (Vs Thorpies Furballs, 27/07/2005)
+ Worst Batting Partnership:                                -22
+  -25  Brendon Hooker  (Vs Team Tena, 13/07/2005)
+  3  Tom McDonnell  (Vs Team Tena, 13/07/2005)
+--------------------------------------------------------------
+* Match Contribution:
+   Loosely = runs scored minus runs conceded for the match.
+   To account for the case when player bats more than once or
+   bowls more than twice (possible if team is short players),
+   the formula used is:
+                         (Runs Scored)     2 * (Runs Conceded)
+   Match Contribution = ---------------- - -------------------
+                        (Innings Batted)     (Overs Bowled)
+* Bowling Figures:
+   To account for the case when player bowls more than twice
+   (possible if team is short players), The figures used are
+   the averages (wickets taken, runs conceded) per two overs
+   bowled.
+--------------------------------------------------------------
+
+Player Rankings (Avg. Runs Scored Per Innings)
+Team   Two Dogs
+Period [16/06/2005, 19/10/2005]
+(Minimum 4 Matches)
+-----------------------------------------------------------------
+Rank  First name       Last name        Matches  Innings  Average
+-----------------------------------------------------------------
+   1  Brendon          Hooker                13       14  11.3571
+   2  Eric             Morrison              13       14  10.5714
+   3  Gary             Virgin                12       13   7.6923
+   4  Eddie            Pannowich             13       14   5.9286
+   5  Anthony          Fantin                10       12   5.4167
+   6  Tom              McDonnell             13       15   4.6000
+   7  Nick             Catlow                 8        9  -3.8889
+-----------------------------------------------------------------
+
+Player Rankings (Avg. Runs Conceded Per Over)
+Team   Two Dogs
+Period [16/06/2005, 19/10/2005]
+(Minimum 4 Matches)
+-----------------------------------------------------------------
+Rank  First name       Last name        Matches    Overs  Average
+-----------------------------------------------------------------
+   1  Brendon          Hooker                13       28   5.5714
+   2  Gary             Virgin                12       24   7.0000
+   3  Anthony          Fantin                10       21   7.0952
+   4  Nick             Catlow                 8       20   7.2000
+   5  Tom              McDonnell             13       28   7.3571
+   6  Eddie            Pannowich             13       30   8.0000
+   7  Eric             Morrison              13       30   8.3333
+-----------------------------------------------------------------
+
+Player Rankings (Avg. Match Contribution)
+Team   Two Dogs
+Period [16/06/2005, 19/10/2005]
+(Minimum 4 Matches)
+--------------------------------------------------------
+Rank  First name       Last name        Matches  Average
+--------------------------------------------------------
+   1  Brendon          Hooker                13   0.2143
+   2  Eric             Morrison              13  -6.0952
+   3  Gary             Virgin                12  -6.3077
+   4  Anthony          Fantin                10  -8.7738
+   5  Eddie            Pannowich             13 -10.0714
+   6  Tom              McDonnell             13 -10.1143
+   7  Nick             Catlow                 8 -18.2889
+--------------------------------------------------------

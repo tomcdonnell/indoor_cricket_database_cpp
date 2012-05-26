@@ -1,0 +1,102 @@
+
+Team Individual Records - Two Dogs
+Period [07/02/2005, 15/06/2005]
+--------------------------------------------------------------
+ Best Innings:                                              38
+  Mark Newton  (Vs Purple Cobras, 16/02/2005)
+ Worst Innings:                                            -15
+  Tom McDonnell  (Vs Team Tena, 14/06/2005)
+
+ Best Over:                                              4/-19
+  Gary Virgin  (Vs Pyros, 18/05/2005)
+ Worst Over:                                             0/ 25
+  Gary Virgin  (Vs Team Tena, 14/06/2005)
+
+ Best Match Bowling Figures: (*)                         4/-12
+  Gary Virgin  (Vs Pyros, 18/05/2005)
+ Worst Match Bowling Figures: (*)                        0/ 34
+  Tom McDonnell  (Vs Agguts, 04/05/2005)
+
+ Best Match Contribution: (*)                               31
+  Al Jamie  (Vs Team Tena, 02/03/2005)
+ Worst Match Contribution: (*)                             -30
+  Brendon Hooker  (Vs Agguts, 04/05/2005)
+  Tom McDonnell  (Vs Pyros, 16/03/2005)
+
+ Best Batting Partnership:                                  58
+  31  Mark Newton  (Vs Hit And Hope, 08/03/2005)
+  27  Brendon Hooker  (Vs Hit And Hope, 08/03/2005)
+  36  Glen Arnett  (Vs Hit And Hope, 08/03/2005)
+  22  Al Jamie  (Vs Hit And Hope, 08/03/2005)
+ Worst Batting Partnership:                                -12
+  -5  Mark Newton  (Vs Agguts, 31/05/2005)
+  -7  Brendon Hooker  (Vs Agguts, 31/05/2005)
+--------------------------------------------------------------
+* Match Contribution:
+   Loosely = runs scored minus runs conceded for the match.
+   To account for the case when player bats more than once or
+   bowls more than twice (possible if team is short players),
+   the formula used is:
+                         (Runs Scored)     2 * (Runs Conceded)
+   Match Contribution = ---------------- - -------------------
+                        (Innings Batted)     (Overs Bowled)
+* Bowling Figures:
+   To account for the case when player bowls more than twice
+   (possible if team is short players), The figures used are
+   the averages (wickets taken, runs conceded) per two overs
+   bowled.
+--------------------------------------------------------------
+
+
+
+Player Rankings (Avg. Runs Scored Per Innings)
+Team   Two Dogs
+Period [07/02/2005, 15/06/2005]
+(Minimum 4 Matches)
+-----------------------------------------------------------------
+Rank  First name       Last name        Matches  Innings  Average
+-----------------------------------------------------------------
+   1  Mark             Newton                12       12  13.5833
+   2  Al               Jamie                 14       14  13.5714
+   3  Glen             Arnett                15       16  13.0000
+   4  Eric             Morrison              16       17  11.7647
+   5  Gary             Virgin                15       15  11.5333
+   6  Brendon          Hooker                15       15  11.1333
+   7  Eddie            Pannowich             13       13  10.6923
+   8  Tom              McDonnell             15       19   2.1579
+-----------------------------------------------------------------
+
+Player Rankings (Avg. Runs Conceded Per Over)
+Team   Two Dogs
+Period [07/02/2005, 15/06/2005]
+(Minimum 4 Matches)
+-----------------------------------------------------------------
+Rank  First name       Last name        Matches    Overs  Average
+-----------------------------------------------------------------
+   1  Glen             Arnett                15       30   3.8333
+   2  Al               Jamie                 14       30   4.7000
+   3  Eric             Morrison              16       37   5.2432
+   4  Mark             Newton                12       24   5.6250
+   5  Brendon          Hooker                15       30   6.1333
+   6  Tom              McDonnell             15       32   6.2813
+   7  Gary             Virgin                15       32   6.7813
+   8  Eddie            Pannowich             13       28   8.1786
+-----------------------------------------------------------------
+
+Player Rankings (Avg. Match Contribution)
+Team   Two Dogs
+Period [07/02/2005, 15/06/2005]
+(Minimum 4 Matches)
+-----------------------------------------------------------------
+Rank  First name       Last name        Matches           Average
+-----------------------------------------------------------------
+   1  Glen             Arnett                15            5.3333
+   2  Al               Jamie                 14            4.1714
+   3  Mark             Newton                12            2.3333
+   4  Eric             Morrison              16            1.2782
+   5  Brendon          Hooker                15           -1.1333
+   6  Gary             Virgin                15           -2.0292
+   7  Eddie            Pannowich             13           -5.6648
+   8  Tom              McDonnell             15          -10.4046
+-----------------------------------------------------------------
+

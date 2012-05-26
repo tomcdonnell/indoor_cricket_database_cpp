@@ -1,0 +1,906 @@
+
+Player Records - Al Jamie, Two Dogs
+Period [07/02/2005, 15/06/2005]
+--------------------------------------------------------------
+Matches:                                                    14
+
+Batting
+ Total Innings Batted:                                      14
+ Total Runs Scored:                                        190
+ Average Runs / Innings:                               13.5714
+
+ Best Innings:                                              31
+  (Vs The Fockers, 25/05/2005)
+ Worst Innings:                                              0
+  (Vs Purple Cobras, 06/04/2005)
+
+Bowling
+ Total Overs Bowled:                                        30
+ Total Wickets Taken:                                       23
+ Total Runs Conceded:                                      141
+ Average Wickets / Over:                              0.766667
+ Average Runs Conceded / Over:                             4.7
+
+ Best Over:                                              3/ -8
+  (Vs Team Tena, 02/03/2005)
+ Worst Over:                                             0/ 14
+  (Vs Agguts, 31/05/2005)
+  (Vs Purple Cobras, 16/02/2005)
+
+ Best Match Bowling Figures: (*)                         4/ -7
+  (Vs Team Tena, 02/03/2005)
+ Worst Match Bowling Figures: (*)                        0/ 16
+  (Vs J. A. F. I. C. S., 27/04/2005)
+  (Vs Pyros, 16/03/2005)
+
+Overall
+ Average Match Contribution: (*)                       4.17143
+
+ Best Match Contribution: (*)                               31
+  (Vs Team Tena, 02/03/2005)
+ Worst Match Contribution: (*)                             -10
+  (Vs Purple Cobras, 16/02/2005)
+--------------------------------------------------------------
+* Match Contribution:
+   Loosely = runs scored minus runs conceded for the match.
+   To account for the case when player bats more than once or
+   bowls more than twice (possible if team is short players),
+   the formula used is:
+                         (Runs Scored)     2 * (Runs Conceded)
+   Match Contribution = ---------------- - -------------------
+                        (Innings Batted)     (Overs Bowled)
+* Bowling Figures:
+   To account for the case when player bowls more than twice
+   (possible if team is short players), The figures used are
+   the averages (wickets taken, runs conceded) per two overs
+   bowled.
+--------------------------------------------------------------
+
+
+
+Player History - Al Jamie, Two Dogs
+Period [07/02/2005, 15/06/2005]
+-------------------------------------------------------------------------------
+Date        Opposition                       Batting    Bowling         Overall
+                                             Inns Runs  Ovrs Wkts Runs         
+-------------------------------------------------------------------------------
+16/02/2005  Purple Cobras                       1    4     2    1   14      -10
+23/02/2005  Clarky's Team                       1   11     2    1   12       -1
+02/03/2005  Team Tena                           1   24     2    4   -7       31
+08/03/2005  Hit And Hope                        1   22     2    2    6       16
+16/03/2005  Pyros                               1   12     2    0   16       -4
+23/03/2005  J. A. F. I. C. S.                   1   10     4    3   18        1
+30/03/2005  Agguts                              1   18     2    2    7       11
+06/04/2005  Purple Cobras                       1    0     2    2    7       -7
+13/04/2005  Clarky's Team                       1   18     2    1   14        4
+27/04/2005  J. A. F. I. C. S.                   1   10     2    0   16       -6
+04/05/2005  Agguts                              1   16     2    1   13        3
+11/05/2005  Yesterdays Heros                    1    3     2    2    6       -3
+25/05/2005  The Fockers                         1   31     2    3    4       27
+31/05/2005  Agguts                              1   11     2    1   15       -4
+-------------------------------------------------------------------------------
+
+
+
+Player Records - Eric Morrison, Two Dogs
+Period [07/02/2005, 15/06/2005]
+--------------------------------------------------------------
+Matches:                                                    16
+
+Batting
+ Total Innings Batted:                                      17
+ Total Runs Scored:                                        200
+ Average Runs / Innings:                               11.7647
+
+ Best Innings:                                              22
+  (Vs Clarky's Team, 23/02/2005)
+ Worst Innings:                                              3
+  (Vs Purple Cobras, 16/02/2005)
+
+Bowling
+ Total Overs Bowled:                                        37
+ Total Wickets Taken:                                       32
+ Total Runs Conceded:                                      194
+ Average Wickets / Over:                              0.864865
+ Average Runs Conceded / Over:                         5.24324
+
+ Best Over:                                              3/-13
+  (Vs Team Tena, 14/06/2005)
+ Worst Over:                                             0/ 20
+  (Vs Yesterdays Heros, 11/05/2005)
+
+ Best Match Bowling Figures: (*)                         3/ -5
+  (Vs Agguts, 31/05/2005)
+ Worst Match Bowling Figures: (*)                        1/ 23
+  (Vs Pyros, 16/03/2005)
+
+Overall
+ Average Match Contribution: (*)                       1.27822
+
+ Best Match Contribution: (*)                               23
+  (Vs Agguts, 31/05/2005)
+ Worst Match Contribution: (*)                             -17
+  (Vs Purple Cobras, 16/02/2005)
+--------------------------------------------------------------
+* Match Contribution:
+   Loosely = runs scored minus runs conceded for the match.
+   To account for the case when player bats more than once or
+   bowls more than twice (possible if team is short players),
+   the formula used is:
+                         (Runs Scored)     2 * (Runs Conceded)
+   Match Contribution = ---------------- - -------------------
+                        (Innings Batted)     (Overs Bowled)
+* Bowling Figures:
+   To account for the case when player bowls more than twice
+   (possible if team is short players), The figures used are
+   the averages (wickets taken, runs conceded) per two overs
+   bowled.
+--------------------------------------------------------------
+
+
+
+Player History - Eric Morrison, Two Dogs
+Period [07/02/2005, 15/06/2005]
+-------------------------------------------------------------------------------
+Date        Opposition                       Batting    Bowling         Overall
+                                             Inns Runs  Ovrs Wkts Runs         
+-------------------------------------------------------------------------------
+16/02/2005  Purple Cobras                       1    3     3    0   31 -17.6667
+23/02/2005  Clarky's Team                       1   22     2    2   11       11
+02/03/2005  Team Tena                           1   12     2    3   -2       14
+16/03/2005  Pyros                               1   11     2    1   23      -12
+23/03/2005  J. A. F. I. C. S.                   2   18     4    4    7      5.5
+30/03/2005  Agguts                              1   12     2    1   14       -2
+06/04/2005  Purple Cobras                       1    6     2    1    8       -2
+13/04/2005  Clarky's Team                       1   12     2    1   22      -10
+21/04/2005  Full Boar                           1   16     2    2    9        7
+27/04/2005  J. A. F. I. C. S.                   1   14     2    1   12        2
+04/05/2005  Agguts                              1    5     2    3    2        3
+11/05/2005  Yesterdays Heros                    1   11     2    2   14       -3
+18/05/2005  Pyros                               1   10     2    1   20      -10
+25/05/2005  The Fockers                         1   19     2    2   19        0
+31/05/2005  Agguts                              1   18     2    3   -5       23
+14/06/2005  Team Tena                           1   11     4    5    9      6.5
+-------------------------------------------------------------------------------
+
+
+
+Player Records - Tom McDonnell, Two Dogs
+Period [07/02/2005, 15/06/2005]
+--------------------------------------------------------------
+Matches:                                                    15
+
+Batting
+ Total Innings Batted:                                      19
+ Total Runs Scored:                                         41
+ Average Runs / Innings:                               2.15789
+
+ Best Innings:                                              22
+  (Vs Agguts, 31/05/2005)
+  (Vs Pyros, 18/05/2005)
+ Worst Innings:                                            -15
+  (Vs Team Tena, 14/06/2005)
+
+Bowling
+ Total Overs Bowled:                                        32
+ Total Wickets Taken:                                       20
+ Total Runs Conceded:                                      201
+ Average Wickets / Over:                                 0.625
+ Average Runs Conceded / Over:                         6.28125
+
+ Best Over:                                              3/-12
+  (Vs Yesterdays Heros, 11/05/2005)
+ Worst Over:                                             0/ 21
+  (Vs Clarky's Team, 13/04/2005)
+
+ Best Match Bowling Figures: (*)                         3/ -4
+  (Vs The Fockers, 25/05/2005)
+  (Vs Yesterdays Heros, 11/05/2005)
+ Worst Match Bowling Figures: (*)                        0/ 34
+  (Vs Agguts, 04/05/2005)
+
+Overall
+ Average Match Contribution: (*)                      -10.4046
+
+ Best Match Contribution: (*)                               21
+  (Vs Agguts, 31/05/2005)
+ Worst Match Contribution: (*)                             -30
+  (Vs Pyros, 16/03/2005)
+--------------------------------------------------------------
+* Match Contribution:
+   Loosely = runs scored minus runs conceded for the match.
+   To account for the case when player bats more than once or
+   bowls more than twice (possible if team is short players),
+   the formula used is:
+                         (Runs Scored)     2 * (Runs Conceded)
+   Match Contribution = ---------------- - -------------------
+                        (Innings Batted)     (Overs Bowled)
+* Bowling Figures:
+   To account for the case when player bowls more than twice
+   (possible if team is short players), The figures used are
+   the averages (wickets taken, runs conceded) per two overs
+   bowled.
+--------------------------------------------------------------
+
+
+
+Player History - Tom McDonnell, Two Dogs
+Period [07/02/2005, 15/06/2005]
+-------------------------------------------------------------------------------
+Date        Opposition                       Batting    Bowling         Overall
+                                             Inns Runs  Ovrs Wkts Runs         
+-------------------------------------------------------------------------------
+16/02/2005  Purple Cobras                       2  -10     3    0   26 -22.3333
+23/02/2005  Clarky's Team                       1   19     2    3    5       14
+02/03/2005  Team Tena                           1   -7     2    0   16      -23
+08/03/2005  Hit And Hope                        1   -8     2    1   11      -19
+16/03/2005  Pyros                               1  -12     2    0   18      -30
+23/03/2005  J. A. F. I. C. S.                   2    2     2    2   10       -9
+13/04/2005  Clarky's Team                       1   -4     2    1   21      -25
+21/04/2005  Full Boar                           1    6     2    2    8       -2
+27/04/2005  J. A. F. I. C. S.                   1   -6     2    0   18      -24
+04/05/2005  Agguts                              1    8     2    0   34      -26
+11/05/2005  Yesterdays Heros                    1   15     2    3   -4       19
+18/05/2005  Pyros                               2   30     3    1   31 -5.66667
+25/05/2005  The Fockers                         1    6     2    3   -4       10
+31/05/2005  Agguts                              1   22     2    2    1       21
+14/06/2005  Team Tena                           2  -20     2    2   10      -20
+-------------------------------------------------------------------------------
+
+
+
+Player Records - Eddie Pannowich, Two Dogs
+Period [07/02/2005, 15/06/2005]
+--------------------------------------------------------------
+Matches:                                                    13
+
+Batting
+ Total Innings Batted:                                      13
+ Total Runs Scored:                                        139
+ Average Runs / Innings:                               10.6923
+
+ Best Innings:                                              26
+  (Vs The Fockers, 25/05/2005)
+ Worst Innings:                                             -6
+  (Vs Full Boar, 21/04/2005)
+
+Bowling
+ Total Overs Bowled:                                        28
+ Total Wickets Taken:                                       16
+ Total Runs Conceded:                                      229
+ Average Wickets / Over:                              0.571429
+ Average Runs Conceded / Over:                         8.17857
+
+ Best Over:                                              2/ -5
+  (Vs Clarky's Team, 23/02/2005)
+ Worst Over:                                             0/ 19
+  (Vs Purple Cobras, 16/02/2005)
+
+ Best Match Bowling Figures: (*)                         3/ -3
+  (Vs Clarky's Team, 23/02/2005)
+ Worst Match Bowling Figures: (*)                        1/ 24
+  (Vs Purple Cobras, 16/02/2005)
+
+Overall
+ Average Match Contribution: (*)                      -5.66484
+
+ Best Match Contribution: (*)                               24
+  (Vs The Fockers, 25/05/2005)
+ Worst Match Contribution: (*)                             -26
+  (Vs Full Boar, 21/04/2005)
+--------------------------------------------------------------
+* Match Contribution:
+   Loosely = runs scored minus runs conceded for the match.
+   To account for the case when player bats more than once or
+   bowls more than twice (possible if team is short players),
+   the formula used is:
+                         (Runs Scored)     2 * (Runs Conceded)
+   Match Contribution = ---------------- - -------------------
+                        (Innings Batted)     (Overs Bowled)
+* Bowling Figures:
+   To account for the case when player bowls more than twice
+   (possible if team is short players), The figures used are
+   the averages (wickets taken, runs conceded) per two overs
+   bowled.
+--------------------------------------------------------------
+
+
+
+Player History - Eddie Pannowich, Two Dogs
+Period [07/02/2005, 15/06/2005]
+-------------------------------------------------------------------------------
+Date        Opposition                       Batting    Bowling         Overall
+                                             Inns Runs  Ovrs Wkts Runs         
+-------------------------------------------------------------------------------
+16/02/2005  Purple Cobras                       1   23     2    1   24       -1
+23/02/2005  Clarky's Team                       1    7     2    3   -3       10
+02/03/2005  Team Tena                           1   17     2    1   13        4
+08/03/2005  Hit And Hope                        1   -1     3    0   33      -23
+16/03/2005  Pyros                               1   21     2    0   19        2
+06/04/2005  Purple Cobras                       1   -5     2    1   15      -20
+13/04/2005  Clarky's Team                       1   15     2    1   18       -3
+21/04/2005  Full Boar                           1   -6     2    2   20      -26
+27/04/2005  J. A. F. I. C. S.                   1    8     2    0   20      -12
+04/05/2005  Agguts                              1    0     2    1   18      -18
+18/05/2005  Pyros                               1   16     3    2   33       -6
+25/05/2005  The Fockers                         1   26     2    3    2       24
+31/05/2005  Agguts                              1   18     2    1   17        1
+-------------------------------------------------------------------------------
+
+
+
+Player Records - Gary Virgin, Two Dogs
+Period [07/02/2005, 15/06/2005]
+--------------------------------------------------------------
+Matches:                                                    15
+
+Batting
+ Total Innings Batted:                                      15
+ Total Runs Scored:                                        173
+ Average Runs / Innings:                               11.5333
+
+ Best Innings:                                              30
+  (Vs Clarky's Team, 23/02/2005)
+ Worst Innings:                                             -2
+  (Vs Team Tena, 02/03/2005)
+
+Bowling
+ Total Overs Bowled:                                        32
+ Total Wickets Taken:                                       20
+ Total Runs Conceded:                                      217
+ Average Wickets / Over:                                 0.625
+ Average Runs Conceded / Over:                         6.78125
+
+ Best Over:                                              4/-19
+  (Vs Pyros, 18/05/2005)
+ Worst Over:                                             0/ 25
+  (Vs Team Tena, 14/06/2005)
+
+ Best Match Bowling Figures: (*)                         4/-12
+  (Vs Pyros, 18/05/2005)
+ Worst Match Bowling Figures: (*)                   0/    30.5
+  (Vs Team Tena, 14/06/2005)
+
+Overall
+ Average Match Contribution: (*)                      -2.02917
+
+ Best Match Contribution: (*)                               23
+  (Vs J. A. F. I. C. S., 27/04/2005)
+ Worst Match Contribution: (*)                             -23
+  (Vs Team Tena, 02/03/2005)
+--------------------------------------------------------------
+* Match Contribution:
+   Loosely = runs scored minus runs conceded for the match.
+   To account for the case when player bats more than once or
+   bowls more than twice (possible if team is short players),
+   the formula used is:
+                         (Runs Scored)     2 * (Runs Conceded)
+   Match Contribution = ---------------- - -------------------
+                        (Innings Batted)     (Overs Bowled)
+* Bowling Figures:
+   To account for the case when player bowls more than twice
+   (possible if team is short players), The figures used are
+   the averages (wickets taken, runs conceded) per two overs
+   bowled.
+--------------------------------------------------------------
+
+
+
+Player History - Gary Virgin, Two Dogs
+Period [07/02/2005, 15/06/2005]
+-------------------------------------------------------------------------------
+Date        Opposition                       Batting    Bowling         Overall
+                                             Inns Runs  Ovrs Wkts Runs         
+-------------------------------------------------------------------------------
+16/02/2005  Purple Cobras                       1    4     2    2    2        2
+23/02/2005  Clarky's Team                       1   30     2    0   22        8
+02/03/2005  Team Tena                           1   -2     2    1   21      -23
+16/03/2005  Pyros                               1    6     2    2   11       -5
+23/03/2005  J. A. F. I. C. S.                   1   18     2    0   21       -3
+30/03/2005  Agguts                              1    0     2    3    0        0
+06/04/2005  Purple Cobras                       1    3     2    2    8       -5
+21/04/2005  Full Boar                           1   17     2    2    5       12
+27/04/2005  J. A. F. I. C. S.                   1   28     2    1    5       23
+04/05/2005  Agguts                              1   25     2    0   24        1
+11/05/2005  Yesterdays Heros                    1    9     2    1   23      -14
+18/05/2005  Pyros                               1    7     2    4  -12       19
+25/05/2005  The Fockers                         1    2     2    2    8       -6
+31/05/2005  Agguts                              1   11     2    0   18       -7
+14/06/2005  Team Tena                           1   15     4    0   61    -15.5
+-------------------------------------------------------------------------------
+
+
+
+Player Records - Mark Newton, Two Dogs
+Period [07/02/2005, 15/06/2005]
+--------------------------------------------------------------
+Matches:                                                    12
+
+Batting
+ Total Innings Batted:                                      12
+ Total Runs Scored:                                        163
+ Average Runs / Innings:                               13.5833
+
+ Best Innings:                                              38
+  (Vs Purple Cobras, 16/02/2005)
+ Worst Innings:                                             -5
+  (Vs Agguts, 31/05/2005)
+
+Bowling
+ Total Overs Bowled:                                        24
+ Total Wickets Taken:                                       15
+ Total Runs Conceded:                                      135
+ Average Wickets / Over:                                 0.625
+ Average Runs Conceded / Over:                           5.625
+
+ Best Over:                                              2/ -5
+  (Vs Yesterdays Heros, 11/05/2005)
+ Worst Over:                                             0/ 14
+  (Vs Purple Cobras, 16/02/2005)
+
+ Best Match Bowling Figures: (*)                         2/  3
+  (Vs Yesterdays Heros, 11/05/2005)
+ Worst Match Bowling Figures: (*)                        0/ 20
+  (Vs Team Tena, 14/06/2005)
+
+Overall
+ Average Match Contribution: (*)                       2.33333
+
+ Best Match Contribution: (*)                               22
+  (Vs Purple Cobras, 16/02/2005)
+ Worst Match Contribution: (*)                             -20
+  (Vs Agguts, 31/05/2005)
+--------------------------------------------------------------
+* Match Contribution:
+   Loosely = runs scored minus runs conceded for the match.
+   To account for the case when player bats more than once or
+   bowls more than twice (possible if team is short players),
+   the formula used is:
+                         (Runs Scored)     2 * (Runs Conceded)
+   Match Contribution = ---------------- - -------------------
+                        (Innings Batted)     (Overs Bowled)
+* Bowling Figures:
+   To account for the case when player bowls more than twice
+   (possible if team is short players), The figures used are
+   the averages (wickets taken, runs conceded) per two overs
+   bowled.
+--------------------------------------------------------------
+
+
+
+Player History - Mark Newton, Two Dogs
+Period [07/02/2005, 15/06/2005]
+-------------------------------------------------------------------------------
+Date        Opposition                       Batting    Bowling         Overall
+                                             Inns Runs  Ovrs Wkts Runs         
+-------------------------------------------------------------------------------
+16/02/2005  Purple Cobras                       1   38     2    1   16       22
+02/03/2005  Team Tena                           1    7     2    1   10       -3
+08/03/2005  Hit And Hope                        1   31     2    2   10       21
+30/03/2005  Agguts                              1   13     2    0   17       -4
+06/04/2005  Purple Cobras                       1    0     2    2    7       -7
+13/04/2005  Clarky's Team                       1   17     2    3    8        9
+21/04/2005  Full Boar                           1   21     2    2    5       16
+04/05/2005  Agguts                              1   12     2    0   18       -6
+11/05/2005  Yesterdays Heros                    1   16     2    2    3       13
+18/05/2005  Pyros                               1    1     2    1    6       -5
+31/05/2005  Agguts                              1   -5     2    1   15      -20
+14/06/2005  Team Tena                           1   12     2    0   20       -8
+-------------------------------------------------------------------------------
+
+
+
+Player Records - Glen Arnett, Two Dogs
+Period [07/02/2005, 15/06/2005]
+--------------------------------------------------------------
+Matches:                                                    15
+
+Batting
+ Total Innings Batted:                                      16
+ Total Runs Scored:                                        208
+ Average Runs / Innings:                                    13
+
+ Best Innings:                                              36
+  (Vs Hit And Hope, 08/03/2005)
+ Worst Innings:                                             -6
+  (Vs Team Tena, 14/06/2005)
+
+Bowling
+ Total Overs Bowled:                                        30
+ Total Wickets Taken:                                       24
+ Total Runs Conceded:                                      115
+ Average Wickets / Over:                                   0.8
+ Average Runs Conceded / Over:                         3.83333
+
+ Best Over:                                              3/-11
+  (Vs Team Tena, 14/06/2005)
+  (Vs Full Boar, 21/04/2005)
+ Worst Over:                                             0/ 18
+  (Vs Team Tena, 14/06/2005)
+
+ Best Match Bowling Figures: (*)                         4/-11
+  (Vs Full Boar, 21/04/2005)
+ Worst Match Bowling Figures: (*)                        1/ 23
+  (Vs Team Tena, 02/03/2005)
+
+Overall
+ Average Match Contribution: (*)                       5.33333
+
+ Best Match Contribution: (*)                               24
+  (Vs Hit And Hope, 08/03/2005)
+ Worst Match Contribution: (*)                             -15
+  (Vs Pyros, 16/03/2005)
+--------------------------------------------------------------
+* Match Contribution:
+   Loosely = runs scored minus runs conceded for the match.
+   To account for the case when player bats more than once or
+   bowls more than twice (possible if team is short players),
+   the formula used is:
+                         (Runs Scored)     2 * (Runs Conceded)
+   Match Contribution = ---------------- - -------------------
+                        (Innings Batted)     (Overs Bowled)
+* Bowling Figures:
+   To account for the case when player bowls more than twice
+   (possible if team is short players), The figures used are
+   the averages (wickets taken, runs conceded) per two overs
+   bowled.
+--------------------------------------------------------------
+
+
+
+Player History - Glen Arnett, Two Dogs
+Period [07/02/2005, 15/06/2005]
+-------------------------------------------------------------------------------
+Date        Opposition                       Batting    Bowling         Overall
+                                             Inns Runs  Ovrs Wkts Runs         
+-------------------------------------------------------------------------------
+23/02/2005  Clarky's Team                       1   18     2    2    3       15
+02/03/2005  Team Tena                           1   18     2    1   23       -5
+08/03/2005  Hit And Hope                        1   36     2    1   12       24
+16/03/2005  Pyros                               1   -3     2    1   12      -15
+23/03/2005  J. A. F. I. C. S.                   1    8     2    0   14       -6
+30/03/2005  Agguts                              1    7     2    0   17      -10
+06/04/2005  Purple Cobras                       1   16     2    3   -4       20
+13/04/2005  Clarky's Team                       1   18     2    0   18        0
+21/04/2005  Full Boar                           1   12     2    4  -11       23
+27/04/2005  J. A. F. I. C. S.                   1   23     2    2    0       23
+04/05/2005  Agguts                              1    7     2    3   -7       14
+11/05/2005  Yesterdays Heros                    1   16     2    2   13        3
+25/05/2005  The Fockers                         1   12     2    2    1       11
+31/05/2005  Agguts                              1   18     2    0   17        1
+14/06/2005  Team Tena                           2    2     2    3    7       -6
+-------------------------------------------------------------------------------
+
+
+
+Player Records - Brendon Hooker, Two Dogs
+Period [07/02/2005, 15/06/2005]
+--------------------------------------------------------------
+Matches:                                                    15
+
+Batting
+ Total Innings Batted:                                      15
+ Total Runs Scored:                                        167
+ Average Runs / Innings:                               11.1333
+
+ Best Innings:                                              27
+  (Vs Hit And Hope, 08/03/2005)
+ Worst Innings:                                             -7
+  (Vs Agguts, 31/05/2005)
+
+Bowling
+ Total Overs Bowled:                                        30
+ Total Wickets Taken:                                       18
+ Total Runs Conceded:                                      184
+ Average Wickets / Over:                                   0.6
+ Average Runs Conceded / Over:                         6.13333
+
+ Best Over:                                              3/-10
+  (Vs Full Boar, 21/04/2005)
+ Worst Over:                                             0/ 18
+  (Vs Agguts, 04/05/2005)
+  (Vs Team Tena, 02/03/2005)
+
+ Best Match Bowling Figures: (*)                         4/  2
+  (Vs Full Boar, 21/04/2005)
+ Worst Match Bowling Figures: (*)                        0/ 26
+  (Vs Team Tena, 02/03/2005)
+
+Overall
+ Average Match Contribution: (*)                      -1.13333
+
+ Best Match Contribution: (*)                               13
+  (Vs The Fockers, 25/05/2005)
+ Worst Match Contribution: (*)                             -30
+  (Vs Agguts, 04/05/2005)
+--------------------------------------------------------------
+* Match Contribution:
+   Loosely = runs scored minus runs conceded for the match.
+   To account for the case when player bats more than once or
+   bowls more than twice (possible if team is short players),
+   the formula used is:
+                         (Runs Scored)     2 * (Runs Conceded)
+   Match Contribution = ---------------- - -------------------
+                        (Innings Batted)     (Overs Bowled)
+* Bowling Figures:
+   To account for the case when player bowls more than twice
+   (possible if team is short players), The figures used are
+   the averages (wickets taken, runs conceded) per two overs
+   bowled.
+--------------------------------------------------------------
+
+
+
+Player History - Brendon Hooker, Two Dogs
+Period [07/02/2005, 15/06/2005]
+-------------------------------------------------------------------------------
+Date        Opposition                       Batting    Bowling         Overall
+                                             Inns Runs  Ovrs Wkts Runs         
+-------------------------------------------------------------------------------
+23/02/2005  Clarky's Team                       1    9     2    1   12       -3
+02/03/2005  Team Tena                           1   15     2    0   26      -11
+08/03/2005  Hit And Hope                        1   27     2    0   21        6
+16/03/2005  Pyros                               1   16     2    2    4       12
+23/03/2005  J. A. F. I. C. S.                   1   20     2    0   17        3
+30/03/2005  Agguts                              1   -6     2    0   18      -24
+13/04/2005  Clarky's Team                       1   13     2    2    7        6
+21/04/2005  Full Boar                           1   -4     2    4    2       -6
+27/04/2005  J. A. F. I. C. S.                   1   16     2    0   15        1
+04/05/2005  Agguts                              1   -5     2    0   25      -30
+11/05/2005  Yesterdays Heros                    1   23     2    0   20        3
+18/05/2005  Pyros                               1   15     2    3    3       12
+25/05/2005  The Fockers                         1   17     2    1    4       13
+31/05/2005  Agguts                              1   -7     2    2    3      -10
+14/06/2005  Team Tena                           1   18     2    3    7       11
+-------------------------------------------------------------------------------
+
+
+
+Player Records - Max Morrison, Two Dogs
+Period [21/04/2004, 15/06/2005]
+--------------------------------------------------------------
+Matches:                                                    29
+
+Batting
+ Total Innings Batted:                                      29
+ Total Runs Scored:                                        326
+ Average Runs / Innings:                               11.2414
+
+ Best Innings:                                              24
+  (Vs Eight Nuffs, 30/05/2004)
+ Worst Innings:                                             -8
+  (Vs Benda Rover, 12/05/2004)
+
+Bowling
+ Total Overs Bowled:                                        62
+ Total Wickets Taken:                                       46
+ Total Runs Conceded:                                      477
+ Average Wickets / Over:                              0.741935
+ Average Runs Conceded / Over:                         7.69355
+
+ Best Over:                                              3/-14
+  (Vs Dream Team, 19/01/2005)
+ Worst Over:                                             0/ 23
+  (Vs Team Tena, 29/11/2004)
+  (Vs Team Tena, 28/04/2004)
+
+ Best Match Bowling Figures: (*)                         3/ -7
+  (Vs Dream Team, 19/01/2005)
+ Worst Match Bowling Figures: (*)                        1/ 34
+  (Vs Agguts, 22/09/2004)
+
+Overall
+ Average Match Contribution: (*)                      -4.14572
+
+ Best Match Contribution: (*)                               13
+  (Vs Dream Team, 19/01/2005)
+  (Vs Eight Nuffs, 15/12/2004)
+ Worst Match Contribution: (*)                             -35
+  (Vs Benda Rover, 31/08/2004)
+--------------------------------------------------------------
+* Match Contribution:
+   Loosely = runs scored minus runs conceded for the match.
+   To account for the case when player bats more than once or
+   bowls more than twice (possible if team is short players),
+   the formula used is:
+                         (Runs Scored)     2 * (Runs Conceded)
+   Match Contribution = ---------------- - -------------------
+                        (Innings Batted)     (Overs Bowled)
+* Bowling Figures:
+   To account for the case when player bowls more than twice
+   (possible if team is short players), The figures used are
+   the averages (wickets taken, runs conceded) per two overs
+   bowled.
+--------------------------------------------------------------
+
+
+
+Player History - Max Morrison, Two Dogs
+Period [21/04/2004, 15/06/2005]
+-------------------------------------------------------------------------------
+Date        Opposition                       Batting    Bowling         Overall
+                                             Inns Runs  Ovrs Wkts Runs
+-------------------------------------------------------------------------------
+22/04/2004  Pissed 'n Broke                     1   15     2    2   18       -3
+28/04/2004  Team Tena                           1    5     3    1   35 -18.3333
+05/05/2004  Agguts                              1   20     2    2    8       12
+12/05/2004  Benda Rover                         1   -8     2    1   26      -34
+26/05/2004  J. A. F. I. C. S.                   1   12     2    1   16       -4
+30/05/2004  Eight Nuffs                         1   24     2    1   16        8
+09/06/2004  3kz                                 1   13     2    1   24      -11
+31/08/2004  Benda Rover                         1   -6     3    0   44 -35.3333
+08/09/2004  Hot 2 Frot                          1    9     2    2   16       -7
+15/09/2004  C. U. B.                            1   17     2    2   22       -5
+22/09/2004  Agguts                              1   19     2    1   34      -15
+14/10/2004  3kz                                 1    3     2    1   20      -17
+20/10/2004  Space Monkeys                       1    4     2    2    6       -2
+27/10/2004  Toyo Inkredibles                    1   19     2    1   20       -1
+03/11/2004  White Windies Resurrection          1   13     2    1   16       -3
+10/11/2004  Eight Nuffs                         1   22     2    1   19        3
+17/11/2004  Head Hunters                        1   12     2    1   12        0
+24/11/2004  Purple Sevens                       1   16     2    1   13        3
+29/11/2004  Team Tena                           1   -5     2    3   15      -20
+01/12/2004  Pyros                               1    9     2    3    2        7
+08/12/2004  Here For A Good Time                1   22     2    0   18        4
+15/12/2004  Eight Nuffs                         1   15     2    2    2       13
+22/12/2004  Head Hunters                        1    7     2    3   18      -11
+12/01/2005  Pyros                               1    6     4    2   35    -11.5
+19/01/2005  Dream Team                          1    6     2    3   -7       13
+26/01/2005  Purple Cobras                       1   16     2    2    6       10
+02/02/2005  Eight Nuffs                         1   19     2    2    8       11
+06/02/2005  Pyros                               1    7     2    3    0        7
+16/02/2005  Purple Cobras                       1   15     2    1   15        0
+-------------------------------------------------------------------------------
+
+
+
+Player Records - Adam P, Two Dogs
+Period [21/04/2004, 15/06/2005]
+--------------------------------------------------------------
+Matches:                                                     9
+
+Batting
+ Total Innings Batted:                                       9
+ Total Runs Scored:                                        132
+ Average Runs / Innings:                               14.6667
+
+ Best Innings:                                              35
+  (Vs Clarky's Team, 23/02/2005)
+ Worst Innings:                                             -5
+  (Vs 3kz, 19/05/2004)
+
+Bowling
+ Total Overs Bowled:                                        18
+ Total Wickets Taken:                                       17
+ Total Runs Conceded:                                      103
+ Average Wickets / Over:                              0.944444
+ Average Runs Conceded / Over:                         5.72222
+
+ Best Over:                                              4/-15
+  (Vs Pissed 'n Broke, 22/04/2004)
+ Worst Over:                                             0/ 21
+  (Vs Benda Rover, 12/05/2004)
+
+ Best Match Bowling Figures: (*)                         4/ -4
+  (Vs Pyros, 16/03/2005)
+ Worst Match Bowling Figures: (*)                        0/ 35
+  (Vs Benda Rover, 12/05/2004)
+
+Overall
+ Average Match Contribution: (*)                       3.22222
+
+ Best Match Contribution: (*)                               27
+  (Vs Eight Nuffs, 30/05/2004)
+ Worst Match Contribution: (*)                             -22
+  (Vs 3kz, 09/06/2004)
+--------------------------------------------------------------
+* Match Contribution:
+   Loosely = runs scored minus runs conceded for the match.
+   To account for the case when player bats more than once or
+   bowls more than twice (possible if team is short players),
+   the formula used is:
+                         (Runs Scored)     2 * (Runs Conceded)
+   Match Contribution = ---------------- - -------------------
+                        (Innings Batted)     (Overs Bowled)
+* Bowling Figures:
+   To account for the case when player bowls more than twice
+   (possible if team is short players), The figures used are
+   the averages (wickets taken, runs conceded) per two overs
+   bowled.
+--------------------------------------------------------------
+
+
+
+Player History - Adam P, Two Dogs
+Period [21/04/2004, 15/06/2005]
+-------------------------------------------------------------------------------
+Date        Opposition                       Batting    Bowling         Overall
+                                             Inns Runs  Ovrs Wkts Runs
+-------------------------------------------------------------------------------
+22/04/2004  Pissed 'n Broke                     1   21     2    4   -3       24
+05/05/2004  Agguts                              1   13     2    2    8        5
+12/05/2004  Benda Rover                         1   14     2    0   35      -21
+19/05/2004  3kz                                 1   -5     2    1   13      -18
+30/05/2004  Eight Nuffs                         1   29     2    3    2       27
+09/06/2004  3kz                                 1    6     2    1   28      -22
+23/02/2005  Clarky's Team                       1   35     2    1   10       25
+16/03/2005  Pyros                               1   12     2    4   -4       16
+13/04/2005  Clarky's Team                       1    7     2    1   14       -7
+-------------------------------------------------------------------------------
+
+
+
+Player Records - Mick, Two Dogs
+Period [21/04/2004, 15/06/2005]
+--------------------------------------------------------------
+Matches:                                                     7
+
+Batting
+ Total Innings Batted:                                       7
+ Total Runs Scored:                                        108
+ Average Runs / Innings:                               15.4286
+
+ Best Innings:                                              21
+  (Vs Team Tena, 28/04/2004)
+ Worst Innings:                                             10
+  (Vs Pissed 'n Broke, 22/04/2004)
+
+Bowling
+ Total Overs Bowled:                                        14
+ Total Wickets Taken:                                        8
+ Total Runs Conceded:                                       94
+ Average Wickets / Over:                              0.571429
+ Average Runs Conceded / Over:                         6.71429
+
+ Best Over:                                              1/  3
+  (Vs Benda Rover, 12/05/2004)
+ Worst Over:                                             0/ 12
+  (Vs Eight Nuffs, 30/05/2004)
+
+ Best Match Bowling Figures: (*)                         1/ 11
+  (Vs 3kz, 19/05/2004)
+  (Vs Benda Rover, 12/05/2004)
+  (Vs Team Tena, 28/04/2004)
+ Worst Match Bowling Figures: (*)                        0/ 18
+  (Vs J. A. F. I. C. S., 26/05/2004)
+
+Overall
+ Average Match Contribution: (*)                             2
+
+ Best Match Contribution: (*)                               10
+  (Vs Team Tena, 28/04/2004)
+ Worst Match Contribution: (*)                              -4
+  (Vs J. A. F. I. C. S., 06/10/2004)
+--------------------------------------------------------------
+* Match Contribution:
+   Loosely = runs scored minus runs conceded for the match.
+   To account for the case when player bats more than once or
+   bowls more than twice (possible if team is short players),
+   the formula used is:
+                         (Runs Scored)     2 * (Runs Conceded)
+   Match Contribution = ---------------- - -------------------
+                        (Innings Batted)     (Overs Bowled)
+* Bowling Figures:
+   To account for the case when player bowls more than twice
+   (possible if team is short players), The figures used are
+   the averages (wickets taken, runs conceded) per two overs
+   bowled.
+--------------------------------------------------------------
+
+
+
+Player History - Mick, Two Dogs
+Period [21/04/2004, 15/06/2005]
+-------------------------------------------------------------------------------
+Date        Opposition                       Batting    Bowling         Overall
+                                             Inns Runs  Ovrs Wkts Runs
+-------------------------------------------------------------------------------
+22/04/2004  Pissed 'n Broke                     1   10     2    1   12       -2
+28/04/2004  Team Tena                           1   21     2    1   11       10
+12/05/2004  Benda Rover                         1   14     2    2   11        3
+19/05/2004  3kz                                 1   16     2    2   11        5
+26/05/2004  J. A. F. I. C. S.                   1   16     2    0   18       -2
+30/05/2004  Eight Nuffs                         1   20     2    1   16        4
+06/10/2004  J. A. F. I. C. S.                   1   11     2    1   15       -4
+-------------------------------------------------------------------------------
+

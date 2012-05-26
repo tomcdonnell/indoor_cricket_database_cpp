@@ -1,0 +1,530 @@
+
+Player Records - Gary Virgin, Two Dogs
+Period [16/06/2005, 19/10/2005]
+--------------------------------------------------------------
+Matches:                                                    12
+
+Batting
+ Total Innings Batted:                                      13
+ Total Runs Scored:                                        100
+ Average Runs / Innings:                               7.69231
+
+ Best Innings:                                              31
+  (Vs H. S. D., 12/10/2005)
+ Worst Innings:                                             -5
+  (Vs Thorpies Furballs, 20/07/2005)
+
+Bowling
+ Total Overs Bowled:                                        24
+ Total Wickets Taken:                                       11
+ Total Runs Conceded:                                      168
+ Average Wickets / Over:                              0.458333
+ Average Runs Conceded / Over:                               7
+
+ Best Over:                                              2/ -3
+  (Vs Team Tena, 10/08/2005)
+ Worst Over:                                             0/ 16
+  (Vs K 2, 06/09/2005)
+
+ Best Match Bowling Figures: (*)                         3/ -5
+  (Vs Team Tena, 10/08/2005)
+ Worst Match Bowling Figures: (*)                        0/ 29
+  (Vs K 2, 06/09/2005)
+
+Overall
+ Average Match Contribution: (*)                      -6.30769
+
+ Best Match Contribution: (*)                               25
+  (Vs H. S. D., 12/10/2005)
+ Worst Match Contribution: (*)                             -26
+  (Vs K 2, 06/09/2005)
+--------------------------------------------------------------
+* Match Contribution:
+   Loosely = runs scored minus runs conceded for the match.
+   To account for the case when player bats more than once or
+   bowls more than twice (possible if team is short players),
+   the formula used is:
+                         (Runs Scored)     2 * (Runs Conceded)
+   Match Contribution = ---------------- - -------------------
+                        (Innings Batted)     (Overs Bowled)
+* Bowling Figures:
+   To account for the case when player bowls more than twice
+   (possible if team is short players), The figures used are
+   the averages (wickets taken, runs conceded) per two overs
+   bowled.
+--------------------------------------------------------------
+
+
+Player History - Gary Virgin, Two Dogs
+Period [16/06/2005, 19/10/2005]
+-------------------------------------------------------------------------------
+Date        Opposition                       Batting    Bowling         Overall
+                                             Inns Runs  Ovrs Wkts Runs         
+-------------------------------------------------------------------------------
+06/07/2005  J. A. F. I. C. S.                   1   16     2    1   14        2
+13/07/2005  Team Tena                           1   -3     2    0   21      -24
+20/07/2005  Thorpies Furballs                   2    4     2    1    6       -4
+27/07/2005  Thorpies Furballs                   1    3     2    1   24      -21
+10/08/2005  Team Tena                           1    2     2    3   -5        7
+01/09/2005  Kev's Team                          1    7     2    0   17      -10
+06/09/2005  K 2                                 1    3     2    0   29      -26
+14/09/2005  J. A. F. I. C. S.                   1   -4     2    2    7      -11
+28/09/2005  The Shinboners                      1   11     2    1   11        0
+05/10/2005  The Woodies                         1   14     2    0   21       -7
+12/10/2005  H. S. D.                            1   31     2    2    6       25
+19/10/2005  The Woodies                         1   16     2    0   17       -1
+-------------------------------------------------------------------------------
+
+Player Records - Eddie Pannowich, Two Dogs
+Period [16/06/2005, 19/10/2005]
+--------------------------------------------------------------
+Matches:                                                    13
+
+Batting
+ Total Innings Batted:                                      14
+ Total Runs Scored:                                         83
+ Average Runs / Innings:                               5.92857
+
+ Best Innings:                                              22
+  (Vs Kev's Team, 01/09/2005)
+ Worst Innings:                                             -5
+  (Vs Thorpies Furballs, 20/07/2005)
+
+Bowling
+ Total Overs Bowled:                                        30
+ Total Wickets Taken:                                       15
+ Total Runs Conceded:                                      240
+ Average Wickets / Over:                                   0.5
+ Average Runs Conceded / Over:                               8
+
+ Best Over:                                              3/ -7
+  (Vs Thorpies Furballs, 20/07/2005)
+ Worst Over:                                             0/ 20
+  (Vs H. S. D., 12/10/2005)
+
+ Best Match Bowling Figures: (*)              2.66667/ 7.33333
+  (Vs Thorpies Furballs, 20/07/2005)
+ Worst Match Bowling Figures: (*)                        0/ 26
+  (Vs Kev's Team, 01/09/2005)
+
+Overall
+ Average Match Contribution: (*)                      -10.0714
+
+ Best Match Contribution: (*)                                2
+  (Vs The Woodies, 05/10/2005)
+ Worst Match Contribution: (*)                             -18
+  (Vs The Shinboners, 18/08/2005)
+--------------------------------------------------------------
+* Match Contribution:
+   Loosely = runs scored minus runs conceded for the match.
+   To account for the case when player bats more than once or
+   bowls more than twice (possible if team is short players),
+   the formula used is:
+                         (Runs Scored)     2 * (Runs Conceded)
+   Match Contribution = ---------------- - -------------------
+                        (Innings Batted)     (Overs Bowled)
+* Bowling Figures:
+   To account for the case when player bowls more than twice
+   (possible if team is short players), The figures used are
+   the averages (wickets taken, runs conceded) per two overs
+   bowled.
+--------------------------------------------------------------
+
+
+Player History - Eddie Pannowich, Two Dogs
+Period [16/06/2005, 19/10/2005]
+-------------------------------------------------------------------------------
+Date        Opposition                       Batting    Bowling         Overall
+                                             Inns Runs  Ovrs Wkts Runs         
+-------------------------------------------------------------------------------
+06/07/2005  J. A. F. I. C. S.                   2   10     2    1   14       -9
+13/07/2005  Team Tena                           1   10     2    0   14       -4
+20/07/2005  Thorpies Furballs                   1   -5     3    4   11 -12.3333
+27/07/2005  Thorpies Furballs                   1    8     3    1   36      -16
+10/08/2005  Team Tena                           1    6     2    0   16      -10
+18/08/2005  The Shinboners                      1   -2     3    1   24      -18
+01/09/2005  Kev's Team                          1   22     2    0   26       -4
+06/09/2005  K 2                                 1    0     2    1   14      -14
+14/09/2005  J. A. F. I. C. S.                   1   -4     2    2   11      -15
+28/09/2005  The Shinboners                      1    6     3    0   34 -16.6667
+05/10/2005  The Woodies                         1   12     2    2   10        2
+12/10/2005  H. S. D.                            1    6     2    2   17      -11
+19/10/2005  The Woodies                         1   14     2    1   13        1
+-------------------------------------------------------------------------------
+
+Player Records - Tom McDonnell, Two Dogs
+Period [16/06/2005, 19/10/2005]
+--------------------------------------------------------------
+Matches:                                                    13
+
+Batting
+ Total Innings Batted:                                      15
+ Total Runs Scored:                                         69
+ Average Runs / Innings:                                   4.6
+
+ Best Innings:                                              14
+  (Vs Team Tena, 13/07/2005)
+ Worst Innings:                                            -13
+  (Vs The Woodies, 05/10/2005)
+
+Bowling
+ Total Overs Bowled:                                        28
+ Total Wickets Taken:                                       17
+ Total Runs Conceded:                                      206
+ Average Wickets / Over:                              0.607143
+ Average Runs Conceded / Over:                         7.35714
+
+ Best Over:                                              4/-20
+  (Vs H. S. D., 12/10/2005)
+ Worst Over:                                             0/ 22
+  (Vs K 2, 06/09/2005)
+
+ Best Match Bowling Figures: (*)                         4/-11
+  (Vs H. S. D., 12/10/2005)
+ Worst Match Bowling Figures: (*)                        0/ 28
+  (Vs Team Tena, 13/07/2005)
+
+Overall
+ Average Match Contribution: (*)                      -10.1143
+
+ Best Match Contribution: (*)                               16
+  (Vs H. S. D., 12/10/2005)
+ Worst Match Contribution: (*)                        -40.3333
+  (Vs The Woodies, 05/10/2005)
+--------------------------------------------------------------
+* Match Contribution:
+   Loosely = runs scored minus runs conceded for the match.
+   To account for the case when player bats more than once or
+   bowls more than twice (possible if team is short players),
+   the formula used is:
+                         (Runs Scored)     2 * (Runs Conceded)
+   Match Contribution = ---------------- - -------------------
+                        (Innings Batted)     (Overs Bowled)
+* Bowling Figures:
+   To account for the case when player bowls more than twice
+   (possible if team is short players), The figures used are
+   the averages (wickets taken, runs conceded) per two overs
+   bowled.
+--------------------------------------------------------------
+
+
+Player History - Tom McDonnell, Two Dogs
+Period [16/06/2005, 19/10/2005]
+-------------------------------------------------------------------------------
+Date        Opposition                       Batting    Bowling         Overall
+                                             Inns Runs  Ovrs Wkts Runs         
+-------------------------------------------------------------------------------
+06/07/2005  J. A. F. I. C. S.                   1    5     2    3   -4        9
+13/07/2005  Team Tena                           2   17     2    0   28    -19.5
+20/07/2005  Thorpies Furballs                   1    1     2    0   27      -26
+27/07/2005  Thorpies Furballs                   1    2     2    2   18      -16
+10/08/2005  Team Tena                           1   13     2    1   20       -7
+18/08/2005  The Shinboners                      1    5     2    2    2        3
+01/09/2005  Kev's Team                          1    7     2    2    0        7
+06/09/2005  K 2                                 1    3     3    3   17 -8.33333
+14/09/2005  J. A. F. I. C. S.                   1   -3     2    0   16      -19
+28/09/2005  The Shinboners                      2   14     2    0   27      -20
+05/10/2005  The Woodies                         1  -13     3    0   41 -40.3333
+12/10/2005  H. S. D.                            1    5     2    4  -11       16
+19/10/2005  The Woodies                         1   13     2    0   25      -12
+-------------------------------------------------------------------------------
+
+Player Records - Brendon Hooker, Two Dogs
+Period [16/06/2005, 19/10/2005]
+--------------------------------------------------------------
+Matches:                                                    13
+
+Batting
+ Total Innings Batted:                                      14
+ Total Runs Scored:                                        159
+ Average Runs / Innings:                               11.3571
+
+ Best Innings:                                              25
+  (Vs The Shinboners, 18/08/2005)
+ Worst Innings:                                            -25
+  (Vs Team Tena, 13/07/2005)
+
+Bowling
+ Total Overs Bowled:                                        28
+ Total Wickets Taken:                                       21
+ Total Runs Conceded:                                      156
+ Average Wickets / Over:                                  0.75
+ Average Runs Conceded / Over:                         5.57143
+
+ Best Over:                                              2/ -6
+  (Vs Kev's Team, 01/09/2005)
+ Worst Over:                                             0/ 16
+  (Vs The Shinboners, 18/08/2005)
+
+ Best Match Bowling Figures: (*)                         3/ -3
+  (Vs The Shinboners, 28/09/2005)
+ Worst Match Bowling Figures: (*)                        0/ 23
+  (Vs Team Tena, 10/08/2005)
+
+Overall
+ Average Match Contribution: (*)                      0.214286
+
+ Best Match Contribution: (*)                               18
+  (Vs The Shinboners, 28/09/2005)
+ Worst Match Contribution: (*)                             -31
+  (Vs Team Tena, 13/07/2005)
+--------------------------------------------------------------
+* Match Contribution:
+   Loosely = runs scored minus runs conceded for the match.
+   To account for the case when player bats more than once or
+   bowls more than twice (possible if team is short players),
+   the formula used is:
+                         (Runs Scored)     2 * (Runs Conceded)
+   Match Contribution = ---------------- - -------------------
+                        (Innings Batted)     (Overs Bowled)
+* Bowling Figures:
+   To account for the case when player bowls more than twice
+   (possible if team is short players), The figures used are
+   the averages (wickets taken, runs conceded) per two overs
+   bowled.
+--------------------------------------------------------------
+
+
+Player History - Brendon Hooker, Two Dogs
+Period [16/06/2005, 19/10/2005]
+-------------------------------------------------------------------------------
+Date        Opposition                       Batting    Bowling         Overall
+                                             Inns Runs  Ovrs Wkts Runs         
+-------------------------------------------------------------------------------
+06/07/2005  J. A. F. I. C. S.                   1    9     3    3    8  3.66667
+13/07/2005  Team Tena                           1  -25     2    2    6      -31
+20/07/2005  Thorpies Furballs                   1   -2     2    3   -1       -1
+27/07/2005  Thorpies Furballs                   1   17     2    1   18       -1
+10/08/2005  Team Tena                           1   22     2    0   23       -1
+18/08/2005  The Shinboners                      1   25     2    2   12       13
+01/09/2005  Kev's Team                          2   28     3    2   10  7.33333
+06/09/2005  K 2                                 1   12     2    2   13       -1
+14/09/2005  J. A. F. I. C. S.                   1   23     2    1   14        9
+28/09/2005  The Shinboners                      1   15     2    3   -3       18
+05/10/2005  The Woodies                         1    9     2    0   21      -12
+12/10/2005  H. S. D.                            1   10     2    1   17       -7
+19/10/2005  The Woodies                         1   16     2    1   18       -2
+-------------------------------------------------------------------------------
+
+Player Records - Eric Morrison, Two Dogs
+Period [16/06/2005, 19/10/2005]
+--------------------------------------------------------------
+Matches:                                                    13
+
+Batting
+ Total Innings Batted:                                      14
+ Total Runs Scored:                                        148
+ Average Runs / Innings:                               10.5714
+
+ Best Innings:                                              18
+  (Vs The Shinboners, 18/08/2005)
+ Worst Innings:                                             -4
+  (Vs J. A. F. I. C. S., 06/07/2005)
+
+Bowling
+ Total Overs Bowled:                                        30
+ Total Wickets Taken:                                       16
+ Total Runs Conceded:                                      250
+ Average Wickets / Over:                              0.533333
+ Average Runs Conceded / Over:                         8.33333
+
+ Best Over:                                              2/ -2
+  (Vs Kev's Team, 01/09/2005)
+ Worst Over:                                             0/ 22
+  (Vs H. S. D., 12/10/2005)
+
+ Best Match Bowling Figures: (*)                         3/ -1
+  (Vs Kev's Team, 01/09/2005)
+ Worst Match Bowling Figures: (*)                        0/ 43
+  (Vs H. S. D., 12/10/2005)
+
+Overall
+ Average Match Contribution: (*)                      -6.09524
+
+ Best Match Contribution: (*)                               11
+  (Vs Kev's Team, 01/09/2005)
+ Worst Match Contribution: (*)                        -28.6667
+  (Vs J. A. F. I. C. S., 06/07/2005)
+--------------------------------------------------------------
+* Match Contribution:
+   Loosely = runs scored minus runs conceded for the match.
+   To account for the case when player bats more than once or
+   bowls more than twice (possible if team is short players),
+   the formula used is:
+                         (Runs Scored)     2 * (Runs Conceded)
+   Match Contribution = ---------------- - -------------------
+                        (Innings Batted)     (Overs Bowled)
+* Bowling Figures:
+   To account for the case when player bowls more than twice
+   (possible if team is short players), The figures used are
+   the averages (wickets taken, runs conceded) per two overs
+   bowled.
+--------------------------------------------------------------
+
+
+Player History - Eric Morrison, Two Dogs
+Period [16/06/2005, 19/10/2005]
+-------------------------------------------------------------------------------
+Date        Opposition                       Batting    Bowling         Overall
+                                             Inns Runs  Ovrs Wkts Runs         
+-------------------------------------------------------------------------------
+06/07/2005  J. A. F. I. C. S.                   1   -4     3    0   37 -28.6667
+13/07/2005  Team Tena                           1    7     3    1   20 -6.33333
+20/07/2005  Thorpies Furballs                   1   13     3    3   29 -6.33333
+27/07/2005  Thorpies Furballs                   1   15     2    0   19       -4
+10/08/2005  Team Tena                           1    8     2    2    5        3
+18/08/2005  The Shinboners                      1   18     2    1   14        4
+01/09/2005  Kev's Team                          1   10     2    3   -1       11
+06/09/2005  K 2                                 2   23     2    0   21     -9.5
+14/09/2005  J. A. F. I. C. S.                   1   15     2    1    9        6
+28/09/2005  The Shinboners                      1   13     3    2   28 -5.66667
+05/10/2005  The Woodies                         1   -1     2    1   13      -14
+12/10/2005  H. S. D.                            1   16     2    0   43      -27
+19/10/2005  The Woodies                         1   15     2    2   13        2
+-------------------------------------------------------------------------------
+
+Player Records - Anthony Fantin, Two Dogs
+Period [16/06/2005, 19/10/2005]
+--------------------------------------------------------------
+Matches:                                                    10
+
+Batting
+ Total Innings Batted:                                      12
+ Total Runs Scored:                                         65
+ Average Runs / Innings:                               5.41667
+
+ Best Innings:                                              16
+  (Vs Thorpies Furballs, 27/07/2005)
+ Worst Innings:                                            -13
+  (Vs The Shinboners, 28/09/2005)
+
+Bowling
+ Total Overs Bowled:                                        21
+ Total Wickets Taken:                                       10
+ Total Runs Conceded:                                      149
+ Average Wickets / Over:                               0.47619
+ Average Runs Conceded / Over:                         7.09524
+
+ Best Over:                                              2/ -8
+  (Vs The Shinboners, 28/09/2005)
+ Worst Over:                                             0/ 19
+  (Vs K 2, 06/09/2005)
+
+ Best Match Bowling Figures: (*)                         2/  5
+  (Vs The Shinboners, 18/08/2005)
+ Worst Match Bowling Figures: (*)                        0/ 23
+  (Vs H. S. D., 12/10/2005)
+
+Overall
+ Average Match Contribution: (*)                      -8.77381
+
+ Best Match Contribution: (*)                                4
+  (Vs The Shinboners, 18/08/2005)
+ Worst Match Contribution: (*)                             -23
+  (Vs Team Tena, 10/08/2005)
+--------------------------------------------------------------
+* Match Contribution:
+   Loosely = runs scored minus runs conceded for the match.
+   To account for the case when player bats more than once or
+   bowls more than twice (possible if team is short players),
+   the formula used is:
+                         (Runs Scored)     2 * (Runs Conceded)
+   Match Contribution = ---------------- - -------------------
+                        (Innings Batted)     (Overs Bowled)
+* Bowling Figures:
+   To account for the case when player bowls more than twice
+   (possible if team is short players), The figures used are
+   the averages (wickets taken, runs conceded) per two overs
+   bowled.
+--------------------------------------------------------------
+
+
+Player History - Anthony Fantin, Two Dogs
+Period [16/06/2005, 19/10/2005]
+-------------------------------------------------------------------------------
+Date        Opposition                       Batting    Bowling         Overall
+                                             Inns Runs  Ovrs Wkts Runs         
+-------------------------------------------------------------------------------
+27/07/2005  Thorpies Furballs                   2   30     3    1   18        3
+10/08/2005  Team Tena                           1   -6     2    1   17      -23
+18/08/2005  The Shinboners                      1    9     2    2    5        4
+01/09/2005  Kev's Team                          1   11     2    1    8        3
+06/09/2005  K 2                                 1    9     2    1   19      -10
+14/09/2005  J. A. F. I. C. S.                   1    8     2    0   22      -14
+28/09/2005  The Shinboners                      1  -13     2    2    7      -20
+05/10/2005  The Woodies                         2    6     2    2   14      -11
+12/10/2005  H. S. D.                            1   10     2    0   23      -13
+19/10/2005  The Woodies                         1    1     2    0   16      -15
+-------------------------------------------------------------------------------
+
+Player Records - Nick Catlow, Two Dogs
+Period [16/06/2005, 19/10/2005]
+--------------------------------------------------------------
+Matches:                                                     8
+
+Batting
+ Total Innings Batted:                                       9
+ Total Runs Scored:                                        -35
+ Average Runs / Innings:                              -3.88889
+
+ Best Innings:                                              11
+  (Vs H. S. D., 12/10/2005)
+ Worst Innings:                                            -22
+  (Vs The Shinboners, 18/08/2005)
+
+Bowling
+ Total Overs Bowled:                                        20
+ Total Wickets Taken:                                       16
+ Total Runs Conceded:                                      144
+ Average Wickets / Over:                                   0.8
+ Average Runs Conceded / Over:                             7.2
+
+ Best Over:                                              3/-10
+  (Vs Team Tena, 10/08/2005)
+ Worst Over:                                             0/ 24
+  (Vs K 2, 06/09/2005)
+
+ Best Match Bowling Figures: (*)                         4/ -8
+  (Vs Team Tena, 10/08/2005)
+ Worst Match Bowling Figures: (*)                   0/ 29.3333
+  (Vs K 2, 06/09/2005)
+
+Overall
+ Average Match Contribution: (*)                      -18.2889
+
+ Best Match Contribution: (*)                                1
+  (Vs H. S. D., 12/10/2005)
+ Worst Match Contribution: (*)                        -34.3333
+  (Vs K 2, 06/09/2005)
+--------------------------------------------------------------
+* Match Contribution:
+   Loosely = runs scored minus runs conceded for the match.
+   To account for the case when player bats more than once or
+   bowls more than twice (possible if team is short players),
+   the formula used is:
+                         (Runs Scored)     2 * (Runs Conceded)
+   Match Contribution = ---------------- - -------------------
+                        (Innings Batted)     (Overs Bowled)
+* Bowling Figures:
+   To account for the case when player bowls more than twice
+   (possible if team is short players), The figures used are
+   the averages (wickets taken, runs conceded) per two overs
+   bowled.
+--------------------------------------------------------------
+
+
+Player History - Nick Catlow, Two Dogs
+Period [16/06/2005, 19/10/2005]
+-------------------------------------------------------------------------------
+Date        Opposition                       Batting    Bowling         Overall
+                                             Inns Runs  Ovrs Wkts Runs         
+-------------------------------------------------------------------------------
+10/08/2005  Team Tena                           1  -11     2    4   -8       -3
+18/08/2005  The Shinboners                      2  -17     3    3   33    -30.5
+01/09/2005  Kev's Team                          1   -2     3    1   26 -19.3333
+06/09/2005  K 2                                 1   -5     3    0   44 -34.3333
+14/09/2005  J. A. F. I. C. S.                   1  -14     2    2    9      -23
+05/10/2005  The Woodies                         1   -4     3    3   18      -16
+12/10/2005  H. S. D.                            1   11     2    1   10        1
+19/10/2005  The Woodies                         1    7     2    2   12       -5
+-------------------------------------------------------------------------------
